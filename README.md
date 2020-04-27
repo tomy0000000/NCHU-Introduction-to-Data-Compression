@@ -1,4 +1,4 @@
-# 1081 - Introduction to Data Compression (3341)
+# 1081 3341 資料壓縮導論 (Introduction to Data Compression)
 
 ## Homework 1
 
